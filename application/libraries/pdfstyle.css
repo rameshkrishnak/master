@@ -1,0 +1,12 @@
+
+
+body {
+    font-family: Arial Narrow;
+    font-size: 12px;
+     margin: 0;
+    padding: 0;
+}
+
+thead tr td {
+font-weight:bold;
+}
